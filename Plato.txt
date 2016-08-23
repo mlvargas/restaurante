@@ -1,0 +1,5 @@
+class Plato{
+	string nombre;
+	float precio;
+	string descripcion;
+} 
