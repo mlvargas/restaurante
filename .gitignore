@@ -1,0 +1,4 @@
+*.log
+*.apk
+build/
+Configuracion.txt
