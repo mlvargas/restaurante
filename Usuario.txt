@@ -1,0 +1,7 @@
+class Usuario{
+
+	string nombre;
+	int edad;
+	string celular;
+	string direccion;
+}
